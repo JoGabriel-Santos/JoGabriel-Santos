@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am a Full Stack Web Developer with a passion for crafting beautiful and functional web applications</h3>
+<h3 align="center">I am a Full Stack Web Developer with a passion for crafting beautiful and functional web applications</h3>
 
 ###
 
